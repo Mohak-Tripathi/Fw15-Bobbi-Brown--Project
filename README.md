@@ -53,7 +53,7 @@
 
 ---
 
-### About Project
+### About (Feautures) Project
 
 > We did this project within 6 days in our unit-3 construct week. We worked on Frontend part of website with whole userflow. We have also added some cool functionality in our product page where you can filter and sort the products according to your choice and user can add products to his cart.
 
